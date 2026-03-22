@@ -2,16 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://gbu-topology.github.io/404/index.html</loc>
+    <loc>https://gbu-topology.github.io/talks/index.html</loc>
     
-    <lastmod>2024-09-19</lastmod>
+    <lastmod>2026-03-17</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://gbu-topology.github.io/talks/index.html</loc>
+    <loc>https://gbu-topology.github.io/index.html</loc>
+    
+    <lastmod>2026-03-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://gbu-topology.github.io/404/index.html</loc>
     
     <lastmod>2024-09-19</lastmod>
     
@@ -46,19 +55,10 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://gbu-topology.github.io/index.html</loc>
-    
-    <lastmod>2024-09-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://gbu-topology.github.io/</loc>
-    <lastmod>2025-09-04</lastmod>
+    <lastmod>2026-03-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
